@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "50bc5068-fced-49f8-9849-16873bf5a9c6",
+            "Value": {
+                "id": "2e46e4fc-e8a3-4041-9d18-1d981cc6877f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/WalkTest\/WalkTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56e382bf-0ca3-419b-a9f5-1754411c8346",
             "Value": {
                 "id": "cac9df1e-ab91-4416-948a-b2307b5a7028",
@@ -248,6 +267,25 @@
             }
         },
         {
+            "Key": "928727e3-d9e7-4437-b4f8-8fc215042dd9",
+            "Value": {
+                "id": "a609b5e7-dce6-4d31-918f-76b3685894a0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Test32by64\/Test32by64.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9c30f791-f151-44e6-a12b-15db82e8c0b9",
             "Value": {
                 "id": "6fc1bdfd-f676-49f1-a302-c71b2c9f69ab",
@@ -321,6 +359,25 @@
                 ],
                 "resourcePath": "rooms\/room0\/room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c2e9003a-d2d1-4be5-a78c-4e3df48a8412",
+            "Value": {
+                "id": "bda6e85c-fdef-48b5-a825-3ad6d2872ccf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Test64By128\/Test64By128.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
