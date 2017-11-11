@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "50bc5068-fced-49f8-9849-16873bf5a9c6",
+            "Value": {
+                "id": "2e46e4fc-e8a3-4041-9d18-1d981cc6877f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/WalkTest\/WalkTest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56e382bf-0ca3-419b-a9f5-1754411c8346",
             "Value": {
                 "id": "cac9df1e-ab91-4416-948a-b2307b5a7028",
